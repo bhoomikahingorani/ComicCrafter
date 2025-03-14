@@ -67,15 +67,15 @@ Story Generator is a Streamlit-based web application that creates detailed comic
 ### Story Format
 The generated story follows this structure:
 
-  INTRODUCTION:
-  Panel 1: [Scene Description]
-  Character Dialogues
-  Narration Boxes
-  STORYLINE:
-  Panel 2: [Scene Description]
+  - INTRODUCTION:
+      - Panel 1: [Scene Description]
+        - Character Dialogues
+        - Narration Boxes
+  - STORYLINE:
+    - Panel 2: [Scene Description]
   ...
-  CLIMAX:
-  Panel 3: [Scene Description]
+  - CLIMAX:
+    - Panel 3: [Scene Description]
   ...
-  MORAL:
-  Panel 4: [Scene Description]
+  - MORAL:
+    - Panel 4: [Scene Description]
